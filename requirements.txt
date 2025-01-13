@@ -1,0 +1,4 @@
+Flask
+requests
+webdriver-manager
+selenium
